@@ -76,7 +76,7 @@ The dataset contains information related to customers and their vehicle insuranc
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/vehicle-insurance-analysis.git
+git clone https://github.com/yogeshkumar70628/vehicle_insurance_Project.git
 ```
 
 2. Install required libraries
